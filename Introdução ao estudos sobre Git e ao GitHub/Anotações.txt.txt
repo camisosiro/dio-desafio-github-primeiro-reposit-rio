@@ -1,0 +1,25 @@
+Aprendendo a mexer com o Git ^^
+
+Para adicionar um projeto Git/GitHub:
+alguns atalhos e comandos:
+
+git +
+cd: pasta especifica do sitema
+cd..: sai da pasta
+
+
+Ctrl + L: limpa a tela
+status: mostrará o status do projeto
+add: abre o commit
+-a: mostra pastas ocultas
+clone + HTTP: quando clonamos do GitHub e adicionamos ao servidor local
+add.: Adiciona as mudanças do servidor local
+commit -m: sereve para mandar as mudanças do servidor local (Git) para o servidor remoto (GitHub) -> (Lembrar sempre de
+mandar com um comentário coerente, já que o commit ficará visivel para o servidor remoto, as pessoas deverão entender o que foi alterado).
+push origin main: adiciona o commit para o servidor remoto (GitHub)
+
+
+Observações:
+Quando não vier nenhuma mensagem é porque o comando deu certo.
+Clicar Git Bash here na pasta que quer usar é uma boa opção :)
+ssh é uma chave segura
